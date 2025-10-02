@@ -30,6 +30,7 @@ export const metadata: Metadata = {
   title: "JMC Market Shop - Fashion E-commerce",
   description: "Find clothes that matches your style",
   generator: "v0.app",
+  icons:"https://i.ibb.co.com/67vVks0M/logo.png"
 }
 
 export default function RootLayout({
